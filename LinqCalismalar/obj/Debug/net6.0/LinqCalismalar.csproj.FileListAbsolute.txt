@@ -1,0 +1,15 @@
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqCalismalar\bin\Debug\net6.0\LinqCalismalar.exe
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqCalismalar\bin\Debug\net6.0\LinqCalismalar.deps.json
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqCalismalar\bin\Debug\net6.0\LinqCalismalar.runtimeconfig.json
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqCalismalar\bin\Debug\net6.0\LinqCalismalar.dll
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqCalismalar\bin\Debug\net6.0\LinqCalismalar.pdb
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqCalismalar\obj\Debug\net6.0\LinqCalismalar.csproj.AssemblyReference.cache
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqCalismalar\obj\Debug\net6.0\LinqCalismalar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqCalismalar\obj\Debug\net6.0\LinqCalismalar.AssemblyInfoInputs.cache
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqCalismalar\obj\Debug\net6.0\LinqCalismalar.AssemblyInfo.cs
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqCalismalar\obj\Debug\net6.0\LinqCalismalar.csproj.CoreCompileInputs.cache
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqCalismalar\obj\Debug\net6.0\LinqCalismalar.dll
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqCalismalar\obj\Debug\net6.0\refint\LinqCalismalar.dll
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqCalismalar\obj\Debug\net6.0\LinqCalismalar.pdb
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqCalismalar\obj\Debug\net6.0\LinqCalismalar.genruntimeconfig.cache
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqCalismalar\obj\Debug\net6.0\ref\LinqCalismalar.dll

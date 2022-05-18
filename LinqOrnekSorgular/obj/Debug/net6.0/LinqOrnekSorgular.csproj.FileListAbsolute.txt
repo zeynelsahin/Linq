@@ -1,0 +1,17 @@
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqOrnekSorgular\bin\Debug\net6.0\LinqOrnekSorgular.exe
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqOrnekSorgular\bin\Debug\net6.0\LinqOrnekSorgular.deps.json
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqOrnekSorgular\bin\Debug\net6.0\LinqOrnekSorgular.runtimeconfig.json
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqOrnekSorgular\bin\Debug\net6.0\LinqOrnekSorgular.dll
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqOrnekSorgular\bin\Debug\net6.0\LinqOrnekSorgular.pdb
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqOrnekSorgular\obj\Debug\net6.0\LinqOrnekSorgular.csproj.AssemblyReference.cache
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqOrnekSorgular\obj\Debug\net6.0\LinqOrnekSorgular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqOrnekSorgular\obj\Debug\net6.0\LinqOrnekSorgular.AssemblyInfoInputs.cache
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqOrnekSorgular\obj\Debug\net6.0\LinqOrnekSorgular.AssemblyInfo.cs
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqOrnekSorgular\obj\Debug\net6.0\LinqOrnekSorgular.csproj.CoreCompileInputs.cache
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqOrnekSorgular\obj\Debug\net6.0\LinqOrnekSorgular.dll
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqOrnekSorgular\obj\Debug\net6.0\refint\LinqOrnekSorgular.dll
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqOrnekSorgular\obj\Debug\net6.0\LinqOrnekSorgular.pdb
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqOrnekSorgular\obj\Debug\net6.0\LinqOrnekSorgular.genruntimeconfig.cache
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqOrnekSorgular\obj\Debug\net6.0\ref\LinqOrnekSorgular.dll
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqOrnekSorgular\bin\Debug\net6.0\GenFu.dll
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqOrnekSorgular\obj\Debug\net6.0\LinqOrnekSorgular.csproj.CopyComplete

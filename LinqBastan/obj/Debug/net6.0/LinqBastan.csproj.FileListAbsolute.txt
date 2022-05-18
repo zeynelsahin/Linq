@@ -1,0 +1,15 @@
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqBastan\bin\Debug\net6.0\LinqBastan.exe
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqBastan\bin\Debug\net6.0\LinqBastan.deps.json
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqBastan\bin\Debug\net6.0\LinqBastan.runtimeconfig.json
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqBastan\bin\Debug\net6.0\LinqBastan.dll
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqBastan\bin\Debug\net6.0\LinqBastan.pdb
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqBastan\obj\Debug\net6.0\LinqBastan.csproj.AssemblyReference.cache
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqBastan\obj\Debug\net6.0\LinqBastan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqBastan\obj\Debug\net6.0\LinqBastan.AssemblyInfoInputs.cache
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqBastan\obj\Debug\net6.0\LinqBastan.AssemblyInfo.cs
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqBastan\obj\Debug\net6.0\LinqBastan.csproj.CoreCompileInputs.cache
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqBastan\obj\Debug\net6.0\LinqBastan.dll
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqBastan\obj\Debug\net6.0\refint\LinqBastan.dll
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqBastan\obj\Debug\net6.0\LinqBastan.pdb
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqBastan\obj\Debug\net6.0\LinqBastan.genruntimeconfig.cache
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqBastan\obj\Debug\net6.0\ref\LinqBastan.dll

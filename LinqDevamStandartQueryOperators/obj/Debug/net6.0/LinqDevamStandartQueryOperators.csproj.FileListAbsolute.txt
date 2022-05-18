@@ -1,0 +1,17 @@
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqDevamStandartQueryOperators\bin\Debug\net6.0\LinqDevamStandartQueryOperators.exe
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqDevamStandartQueryOperators\bin\Debug\net6.0\LinqDevamStandartQueryOperators.deps.json
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqDevamStandartQueryOperators\bin\Debug\net6.0\LinqDevamStandartQueryOperators.runtimeconfig.json
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqDevamStandartQueryOperators\bin\Debug\net6.0\LinqDevamStandartQueryOperators.dll
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqDevamStandartQueryOperators\bin\Debug\net6.0\LinqDevamStandartQueryOperators.pdb
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqDevamStandartQueryOperators\obj\Debug\net6.0\LinqDevamStandartQueryOperators.csproj.AssemblyReference.cache
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqDevamStandartQueryOperators\obj\Debug\net6.0\LinqDevamStandartQueryOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqDevamStandartQueryOperators\obj\Debug\net6.0\LinqDevamStandartQueryOperators.AssemblyInfoInputs.cache
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqDevamStandartQueryOperators\obj\Debug\net6.0\LinqDevamStandartQueryOperators.AssemblyInfo.cs
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqDevamStandartQueryOperators\obj\Debug\net6.0\LinqDevamStandartQueryOperators.csproj.CoreCompileInputs.cache
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqDevamStandartQueryOperators\obj\Debug\net6.0\LinqDevamStandartQueryOperators.dll
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqDevamStandartQueryOperators\obj\Debug\net6.0\refint\LinqDevamStandartQueryOperators.dll
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqDevamStandartQueryOperators\obj\Debug\net6.0\LinqDevamStandartQueryOperators.pdb
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqDevamStandartQueryOperators\obj\Debug\net6.0\LinqDevamStandartQueryOperators.genruntimeconfig.cache
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqDevamStandartQueryOperators\obj\Debug\net6.0\ref\LinqDevamStandartQueryOperators.dll
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqDevamStandartQueryOperators\bin\Debug\net6.0\ConsoleTables.dll
+C:\Users\zynls\RiderProjects\ConsoleUI\LinqDevamStandartQueryOperators\obj\Debug\net6.0\LinqDevamStandartQueryOperators.csproj.CopyComplete
